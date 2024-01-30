@@ -1,0 +1,127 @@
+/* HTML and Body CSS*/
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background: linear-gradient(100deg, #242331 50%, #f9f9f9 50.1%);
+  color: #fff;
+
+  display: flex;
+  justify-content: space-around;
+}
+
+/* Job Signage CSS */
+
+.JobBoardContainer,
+.ApplyContainer {
+  width: 40%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1vw 0 2vw 0;
+}
+
+.Title {
+  font-size: calc(3vw + (1vw / 3));
+  font-weight: 300;
+}
+
+.Title.dark {
+  color: #242331;
+}
+
+hr {
+  width: 100%;
+  border: 0.052vw solid #fff;
+  margin: 0.41665vw 0;
+}
+
+#dark {
+  border: 0.1vw solid #242331;
+}
+
+.JobContainer {
+  width: 100%;
+  height: 70%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-gap: 1vw;
+}
+
+.Job {
+  width: calc(100% - 2vw);
+  height: calc(100% - 2vw);
+  background: #ced1d4;
+  color: #242331;
+  padding: 1vw;
+  border-radius: 1vw;
+
+  display: flex;
+  flex-direction: column;
+  gap: 1vw;
+}
+
+.Job i {
+  font-size: 2.315vw;
+}
+
+.JobInfo {
+  font-size: calc(1vw + (2vw / 3));
+  font-weight: 700;
+}
+
+.ScanContainer {
+  width: 100%;
+  height: 70%;
+  display: grid;
+  grid-template-rows: repeat(2, 1fr);
+  grid-gap: 1vw;
+}
+
+.ScanObject {
+  background: #242331;
+  padding: 1vw;
+  border-radius: 1vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: calc(100% - 2vw);
+}
+
+.ScanImage {
+  width: 44%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ScanImage img {
+  width: 100%;
+  object-fit: contain;
+  border-radius: 1vw;
+}
+
+.ScanText {
+  width: 54%;
+}
+
+.ScanText span {
+  font-size: 2.708333vw;
+  font-weight: 700;
+}
