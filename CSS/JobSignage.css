@@ -9,7 +9,9 @@ body {
 
 body {
   font-family: "Lato", sans-serif;
-  background: linear-gradient(100deg, #242331 50%, #f9f9f9 50.1%);
+  background-image: url("Images/Paw-Prints.png"),
+    linear-gradient(100deg, #242331 50%, #f9f9f9 50.1%);
+  background-blend-mode: hard-light;
   color: #fff;
 
   display: flex;
