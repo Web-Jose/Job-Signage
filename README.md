@@ -121,7 +121,7 @@ open index.html
 ## Links 🔗
 
 - **Figma Mockup:** [Job Board Signage](https://www.figma.com/file/6BsWGMp08Z9V7dwILjPOyb/Job-Board?type=design&node-id=0%3A1&mode=design&t=y1CoRRMFinrBP7fp-1)
-- **Job Board Signage:** [Job Board Signage](https://web-jose.github.io/Job-Signage/)
+- **Job Board Signage:** [Job Board Signage](https://github.com/Web-Jose/Job-Signage)
 - **View the Project:** [Job Board Signage](https://web-jose.github.io/Job-Signage/)
 
 ## License 📜
