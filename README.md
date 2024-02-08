@@ -1,24 +1,24 @@
-# Understanding the Job Baord Signage
+# Understanding the Job Board Signage 💼
 
-## Overview
+## Overview ✍🏻
 
 This document serves as a comprehensive guide for the Job Board Signage project developed for Fresno State Student Housing. It covers the tools, technologies, and methodologies used to create an engaging and informative digital job board for the residents of the student housing. This guide is designed for any developer or team that may take over or contribute to this project in the future.
 
-## Table of Contents
+## Table of Contents 📑
 
-- [Overview](#overview)
-- [Table of Contents](#table-of-contents)
-- [Project Information](#project-information)
-- [Tools & Technologies](#tools--technologies)
-- [Project Description](#project-description)
-- [Challenges Overcome](#challenges-overcome)
-- [Features](#features)
-- [Learning Outcomes](#learning-outcomes)
-- [Future Updates](#future-updates)
-- [File Structure](#file-structure)
-- [Usage](#usage)
+- [Overview](#overview-)
+- [Table of Contents](#table-of-contents-)
+- [Project Information](#project-information-)
+- [Tools & Technologies](#tools--technologies-)
+- [Project Description](#project-description-)
+- [Challenges Overcome](#challenges-overcome-)
+- [Features](#features-)
+- [Learning Outcomes](#learning-outcomes-)
+- [Future Updates](#future-updates-)
+- [File Structure](#file-structure-)
+- [Usage](#usage-)
 
-## Project Information
+## Project Information 📌
 
 **Client:** Fresno State Student Housing
 
@@ -28,7 +28,7 @@ This document serves as a comprehensive guide for the Job Board Signage project 
 
 **Scope:** The job board signage is intended for residents of Fresno State Student Housing to view the current job openings. It is displayed on the digital signage TVs in the housing buildings.
 
-## Tools & Technologies
+## Tools & Technologies 🛠️
 
 **Development Tools:** Visual Studio Code, Figma
 
@@ -38,7 +38,7 @@ This document serves as a comprehensive guide for the Job Board Signage project 
 
 **Version Control:** Git, GitHub
 
-## Project Description
+## Project Description 📖
 
 ### Idea:
 
@@ -56,29 +56,29 @@ The idea was to develop a digital job board signage to display current job openi
   - **Pods Framework:** Used for creating and managing the job openings data.
   - **REST API:** Used for fetching job data from the Pods database.
 
-## Challenges Overcome
+## Challenges Overcome 🏋️
 
 - **Learning the REST API:** This project was my first encounter with the REST API provided by the Pods Framework. I successfully learned how to fetch and display custom post type data in the job board signage.
 
-## Features
+## Features 🌟
 
 - **Real-time Job Data:** The job board signage displays real-time job openings fetched from the Pods database.
 - **QR Code Integration:** Residents can scan the QR codes displayed on the job board to access the [Job Opportunities](https://fresnostatestudenthousing.org/job-opportunities/) page and the [HireFresnoState](https://gtscandidate.mbafocus.com/FresnoState/RouteUsers.aspx?ReturnUrl=/FresnoState/Candidates/Authenticated/Dashboard.aspx) website.
 - **Responsive Design:** The job board signage is designed to be responsive and compatible with various 16:9 aspect ratio screens.
 - **Easy Maintenance:** Designed to be robust, reliable, and easily updatable.
 
-## Learning Outcomes
+## Learning Outcomes 🎓
 
 - Advanced skills in Figma, HTML, CSS, and JavaScript.
 - Proficiency in using the Pods Framework REST API.
 - Ability to design and implement a user-friendly, visually appealing, and functional digital signage.
 - Successful project management and execution within a constrained timeframe.
 
-## Future Updates
+## Future Updates 🚀
 
 - **Aesthetic Improvements:** Considering adding texture or thematic elements (e.g., paw prints) to fill empty spaces and enhance visual appeal.
 
-## File Structure
+## File Structure 📂
 
 ```bash
 Job-Signage/
@@ -96,7 +96,7 @@ Job-Signage/
     └── HousingQR.png
 ```
 
-## Usage
+## Usage 📦
 
 ### Clone the Repository
 
