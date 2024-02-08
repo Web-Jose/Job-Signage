@@ -17,6 +17,8 @@ This document serves as a comprehensive guide for the Job Board Signage project 
 - [Future Updates](#future-updates-)
 - [File Structure](#file-structure-)
 - [Usage](#usage-)
+- [Links](#links-)
+- [License](#license-)
 
 ## Project Information 📌
 
@@ -115,3 +117,13 @@ cd Job-Signage
 ```bash
 open index.html
 ```
+
+## Links 🔗
+
+- **Figma Mockup:** [Job Board Signage](https://www.figma.com/file/6BsWGMp08Z9V7dwILjPOyb/Job-Board?type=design&node-id=0%3A1&mode=design&t=y1CoRRMFinrBP7fp-1)
+- **Job Board Signage:** [Job Board Signage](https://web-jose.github.io/Job-Signage/)
+- **View the Project:** [Job Board Signage](https://web-jose.github.io/Job-Signage/)
+
+## License 📜
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
